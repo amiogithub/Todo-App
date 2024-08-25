@@ -3,6 +3,7 @@ import time
 
 now=time.strftime("%b %d, %Y %H:%M:%S")
 print("it is", now)
+print("Routine checkup")
 
 while True:
     user_action = input('Sir/Maam, please type add, show, edit, complete or exit: ')
