@@ -22,7 +22,7 @@ window=me.Window("My To-Do App",layout=[[clock],
                                         [label],
 [input_box, add_button],[list_box,edit_button,complete_button],
 [exit_button]],
-font=('Helvetica',15))
+font=('Helvetica',13))
 
 
 while True:
