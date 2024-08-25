@@ -20,3 +20,5 @@ clean the room
 clean the room
 bolod
 wash the table
+master python
+KILL 
